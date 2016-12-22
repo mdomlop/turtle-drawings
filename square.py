@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Dibuja un cuadrado
+# Draws a square
 
 import turtle
 
