@@ -1,2 +1,2 @@
 # turtle-drawings
-Some drawings with python
+Some simple drawings with python module turtle. Only for fun.
