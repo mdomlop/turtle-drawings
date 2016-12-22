@@ -5,7 +5,7 @@ from turtle import *
 
 llado = 100
 
-print("¿Cuántas puntas?")
+print("How many points?")
 puntas = input("> ")
 puntas = int(puntas)
 
