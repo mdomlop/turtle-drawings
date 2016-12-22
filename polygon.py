@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Dibuja un cuadrado
+# Draws a polygon
 
 import turtle
 
@@ -7,7 +7,7 @@ llado = 100
 lados = 1
 
 def dibujar():
-	print("¿Cuántos lados?")
+	print("How many sides?")
 	lados = input("> ")
 	lados = int(lados)
 
